@@ -1,2 +1,2 @@
 # Image-to-Pencil-Sketch
-Convert an image to pencil sketch.
+Converts an image to pencil sketch.
